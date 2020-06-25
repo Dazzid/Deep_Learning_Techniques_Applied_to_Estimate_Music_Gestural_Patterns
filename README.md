@@ -1,5 +1,5 @@
 # Deep Learning Techniques Applied to Estimate Music Gestural Patterns
-The following code provide all the Deep Learning techniques applied in the related paper using Keras framework. 
+The following code provide all the Deep Learning techniques applied in the related paper using Tensorflow library. 
 
 We used: 
 - Python '3.6.8' 
@@ -17,7 +17,7 @@ All the data were normalised and centralised. The gestures shapes are given by t
 ![alt text](https://github.com/Dazzid/Deep_Learning_Techniques_Applied_to_Estimate_Music_Gestural_Patterns/blob/master/figures/12_Gestures.jpg)
 
 ## 3D Data Format
-The shape of the data to be passed to the LSTM models. 
+The shape of the data to be passed to the LSTM models. As you might see in the data/Gestures/All folder, features are given by the files from 1 to 9 wich are each of the axes per sensor device (Accelerometer, Gyroscope and Magnetometer).
 ![alt text](https://github.com/Dazzid/Deep_Learning_Techniques_Applied_to_Estimate_Music_Gestural_Patterns/blob/master/figures/04_3D_Data.jpg)
 
 ## Deep Learning Models
