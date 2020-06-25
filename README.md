@@ -7,3 +7,6 @@ We used:
 - NumPy '1.17.4' 
 - Scikit-learn '0.23.1' 
 - Pyquaternion '0.9.5'.
+
+Gestures Recorded
+![alt text](https://github.com/Dazzid/Deep_Learning_Techniques_Applied_to_Estimate_Music_Gestural_Patterns/blob/master/figures/01_music_score_eight_gestures.jpg)
