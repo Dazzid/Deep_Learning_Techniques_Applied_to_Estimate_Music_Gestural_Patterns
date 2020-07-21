@@ -23,3 +23,7 @@ The shape of the data to be passed to the LSTM models. As you might see in the d
 ## Deep Learning Models
 ![alt text](https://github.com/Dazzid/Deep_Learning_Techniques_Applied_to_Estimate_Music_Gestural_Patterns/blob/master/figures/06_CNN_Models.jpg)
 ![alt text](https://github.com/Dazzid/Deep_Learning_Techniques_Applied_to_Estimate_Music_Gestural_Patterns/blob/master/figures/07_LSTM_Models.jpg)
+
+## Licence
+The following code and samples are released under Creative Commons Attribution 4.0 (CC BY 4.0) license (http://creativecommons.org/licenses/by/4.0/)
+(Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.)
