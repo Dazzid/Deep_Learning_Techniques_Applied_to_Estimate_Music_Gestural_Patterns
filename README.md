@@ -1,3 +1,5 @@
+
+[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 # Applying Deep Learning Techniques to Estimate Patterns of Musical Gesture
 The following code provide all the Deep Learning techniques applied in the related paper using Tensorflow library. 
 
