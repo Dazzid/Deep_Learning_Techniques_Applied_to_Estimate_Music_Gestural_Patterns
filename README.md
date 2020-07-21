@@ -12,15 +12,15 @@ We used:
 
 ## Music Score
 8 Gestures were recorded by professional violinist and students in the Royal College of Music in London.
-![An image](https://github.com/Dazzid/Deep_Learning_Techniques_Applied_to_Estimate_Music_Gestural_Patterns/blob/master/figures/01_music_score_eight_gestures.jpg){:height="24px" width="48px"}
+![An image]<img src="https://github.com/Dazzid/Applying_Deep_Learning_Techniques_to_Estimate_Patterns_of_Musical_Gesture/blob/master/figures/01_music_score_eight_gestures.jpg"width="48">
 
 ## Gestures Shapes
 All the data were normalised and centralised. The gestures shapes are given by the Euler angles extracted from the IMU's Myo armband sensor. It outputs a Quaternion orientation data that was re-oriented and translated to Euler angles.  
-![alt text](https://github.com/Dazzid/Deep_Learning_Techniques_Applied_to_Estimate_Music_Gestural_Patterns/blob/master/figures/12_Gestures.jpg)
+![alt text](https://github.com/Dazzid/Applying_Deep_Learning_Techniques_to_Estimate_Patterns_of_Musical_Gesture/blob/master/figures/12_Gestures.jpg)
 
 ## 3D Data Format
 The shape of the 3D data to be passed to the LSTM models is given by (Samples, Time-steps, Features). As you might see in the data/Gestures/All folder, features are organised in independent files from 1 to 9 wich each of them are the axes per sensor device (Accelerometer, Gyroscope and Magnetometer).
-![alt text](https://github.com/Dazzid/Deep_Learning_Techniques_Applied_to_Estimate_Music_Gestural_Patterns/blob/master/figures/04_3D_Data.jpg)
+![alt text](https://github.com/Dazzid/Applying_Deep_Learning_Techniques_to_Estimate_Patterns_of_Musical_Gesture/blob/master/figures/04_3D_Data.jpg)
 
 ## Licence
 The following code and samples are released under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0) license (http://creativecommons.org/licenses/by-nc-sa/4.0/)
