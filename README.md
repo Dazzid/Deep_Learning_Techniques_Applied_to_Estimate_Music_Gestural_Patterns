@@ -12,7 +12,7 @@ We used:
 
 ## Music Score
 8 Gestures were recorded by professional violinist and students in the Royal College of Music in London.
-<img src="https://github.com/Dazzid/Applying_Deep_Learning_Techniques_to_Estimate_Patterns_of_Musical_Gesture/blob/master/figures/01_music_score_eight_gestures.jpg"width="48"/>
+<img src="https://github.com/Dazzid/Applying_Deep_Learning_Techniques_to_Estimate_Patterns_of_Musical_Gesture/blob/master/figures/01_music_score_eight_gestures.jpg" width="48"/>
 
 ## Gestures Shapes
 All the data were normalised and centralised. The gestures shapes are given by the Euler angles extracted from the IMU's Myo armband sensor. It outputs a Quaternion orientation data that was re-oriented and translated to Euler angles.  
