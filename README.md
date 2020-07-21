@@ -1,4 +1,4 @@
-# Deep Learning Techniques Applied to Estimate Music Gestural Patterns
+# Applying Deep Learning Techniques to Estimate Patterns of Musical Gesture
 The following code provide all the Deep Learning techniques applied in the related paper using Tensorflow library. 
 
 We used: 
