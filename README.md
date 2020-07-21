@@ -17,7 +17,7 @@ All the data were normalised and centralised. The gestures shapes are given by t
 ![alt text](https://github.com/Dazzid/Deep_Learning_Techniques_Applied_to_Estimate_Music_Gestural_Patterns/blob/master/figures/12_Gestures.jpg)
 
 ## 3D Data Format
-The shape of the data to be passed to the LSTM models. As you might see in the data/Gestures/All folder, features are given by the files from 1 to 9 wich are each of the axes per sensor device (Accelerometer, Gyroscope and Magnetometer).
+The shape of the 3D data to be passed to the LSTM models is given by (Samples, Time-steps, Features). As you might see in the data/Gestures/All folder, features are organised in independent files from 1 to 9 wich each of them are the axes per sensor device (Accelerometer, Gyroscope and Magnetometer).
 ![alt text](https://github.com/Dazzid/Deep_Learning_Techniques_Applied_to_Estimate_Music_Gestural_Patterns/blob/master/figures/04_3D_Data.jpg)
 
 ## Licence
