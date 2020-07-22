@@ -27,4 +27,4 @@ The shape of the 3D data to be passed to the LSTM models is given by (Samples, T
 
 ## Licence
 The code is released under the [Apache License, Version 2.0](https://github.com/tensorflow/tensorflow/blob/master/LICENSE)
-The samples are released under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0) license (http://creativecommons.org/licenses/by-nc-sa/4.0/).
+The IMU sensor samples are released under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0) [license](http://creativecommons.org/licenses/by-nc-sa/4.0/).
