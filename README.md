@@ -26,5 +26,5 @@ The shape of the 3D data to be passed to the LSTM models is given by (Samples, T
 <img src="https://github.com/Dazzid/Applying_Deep_Learning_Techniques_to_Estimate_Patterns_of_Musical_Gesture/blob/master/figures/04_3D_Data.jpg" width=60%//>
 
 ## Licence
-The code is released with the Apache License, Version 2.0 (https://opensource.org/licenses/Apache-2.0).
+The code is released under the Apache License, Version 2.0 (https://opensource.org/licenses/Apache-2.0).
 The samples are released under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0) license (http://creativecommons.org/licenses/by-nc-sa/4.0/).
